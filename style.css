@@ -32,7 +32,7 @@ nav {
 	justify-content: space-between;
 	align-items:center;
 	height:60px;
-	background-color:#1f242d;
+	background-color:#1f242d; 
 	box-shadow:4px 4px 16px rgba(0,0,0,0.2);
 	padding:0px 5%;
 	
@@ -402,7 +402,7 @@ footer{
 @media(max-width:750px){
 	section{
 		background-image:none;
-		background-color:#f7f7f7;
+		background-color:#1f242d;
 	}
 
     .logo{
